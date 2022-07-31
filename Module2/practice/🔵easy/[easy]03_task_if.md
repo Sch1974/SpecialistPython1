@@ -17,7 +17,14 @@
 ```python
 # TODO: you code here...
 ```
+a = int(input())
+b = int(input())
+c = input(input())
 
+if a + b > c and a + c > b and a + c > b
+       print("Существует")
+else:
+       ("Не существует")
 ---
 
 ### Данные для самопроверки
